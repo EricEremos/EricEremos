@@ -1,48 +1,31 @@
-<img src="assets/banner.png" alt="Hyunjun (Eric) Kim. Build with care. Research deeply. Make thoughtfully." width="100%" />
+<img src="assets/cover.png" alt="Hyunjun (Eric) Kim. Language, software and the things in between. HKUST, Hong Kong." width="100%" />
 
-# Hyunjun (Eric) Kim
+I'm **Eric**, a Marketing and Information Systems student at HKUST and co-founder of **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
 
-**I turn curiosity about people into useful products, systems, and stories.**
+I grew up in China, now study in Hong Kong, and work across Korean, English, and Mandarin. Away from a screen, you'll find me singing or playing acoustic guitar with my band.
 
-I'm a Marketing and Information Systems student at **HKUST**, working across product research, design, development, and communication. I like understanding a problem well enough to make the next step feel clear.
+[LinkedIn](https://www.linkedin.com/in/ericmos/) &nbsp; / &nbsp; [Project notes](work/README.md) &nbsp; / &nbsp; [XiYouQuest source](https://github.com/EricEremos/XiYouQuest-RPG-study-web)
 
-This is my workshop: a place for the things I'm building, the decisions behind them, and what I'm learning along the way.
+## Learning a language
 
-[LinkedIn](https://www.linkedin.com/in/ericmos/) · [Explore XiYouQuest](https://github.com/EricEremos/XiYouQuest-RPG-study-web) · [Project notes](work/README.md)
+**[XiYouQuest](https://github.com/EricEremos/XiYouQuest-RPG-study-web)** puts Putonghua practice inside a Journey to the West-inspired adventure, with AI-assisted feedback. My work spans the learning flow, interface, backend, and QA.
 
-## On the workbench
+**[MELI](work/README.md#meli)** takes that interest into classroom software. Since March 2026, I've been working with HKUST's Center for Language Education on learning workflows, assessment materials, data analysis, and university SSO integration.
 
-| Work | The question behind it | My contribution & current stage |
-| :--- | :--- | :--- |
-| **[XiYouQuest](https://github.com/EricEremos/XiYouQuest-RPG-study-web)** | Can language practice feel like an adventure? | Product planning, UI/UX, backend development, and quality checks for an AI-assisted Putonghua learning experience. Public code. |
-| **[MELI](work/README.md#meli)** | How can classroom tools connect preparation, participation, and reflection? | Co-founder & Product Lead. Working with HKUST's Center for Language Education on product and learning workflows, implementation, and university SSO integration. In development. |
-| **[Yeoback](work/README.md#yeoback)** | How can people make space without losing control? | Designed and developed a native macOS storage app around deliberate review, recoverable cleanup, and local storage insight. Private development. |
-| **[Hong Kong Footprints](work/README.md#hong-kong-footprints)** | Can a personal map help us notice a city differently? | A photo-journal prototype connecting places, photographs, and notes. Private prototype. |
+XiYouQuest has a public development repository. MELI is in development.
 
-## How I work
+## Making room
 
-**Understand before optimizing.** Start with people, context, and the decision that needs to be made.
+**[Yeoback](work/README.md#yeoback)** is my native macOS storage project. It starts with a simple concern: before removing a file, I want to understand what it is and whether I can recover it. The app brings together storage review, cleanup through Trash, and local growth insight.
 
-**Make consequences visible.** Clear feedback, understandable choices, and opportunities to recover are part of the product.
+Designed and developed by me. Currently in private development.
 
-**Carry ideas through.** Research, interface design, implementation, and QA belong in the same conversation. I use AI throughout that process and take responsibility for the result.
+## Remembering a place
 
-**Keep room for learning.** Label prototypes honestly. Share decisions and limitations alongside what works.
+**[Hong Kong Footprints](work/README.md#hong-kong-footprints)** is a photo-journal prototype: places, photographs, and notes kept together on a personal map. An ongoing project about noticing the city I live in.
 
-## What I bring
+## The part I care about
 
-- **Research & analysis:** customer research, conjoint analysis, learning-data analysis, and turning findings into product decisions.
-- **Product & delivery:** service planning, UI/UX, web application development, backend integration, and QA/QC.
-- **Communication:** Korean, English, and Mandarin; cross-cultural coordination; presentations, short-form content, and AI-assisted visual storytelling.
+I like staying with a problem beyond the first idea: testing a workflow, fixing an awkward interaction, and making a decision easier to understand. Research, design, implementation, and checking the result are all part of my work. I use AI throughout that process and take responsibility for what I ship.
 
-## Beyond the screen
-
-I spent more than 17 years in China and now study in Hong Kong. Moving between languages and cultures has made me attentive to how differently the same message can land.
-
-I also sing and play acoustic guitar in a Korean band at HKUST. Building a product and performing music both ask me to listen closely, work with others, and care about the experience on the other side.
-
-## Let's make something useful
-
-I'm interested in product, strategy, and creative operations work where research leads to practical delivery, especially learning tools and thoughtful everyday software.
-
-**[Connect with me on LinkedIn →](https://www.linkedin.com/in/ericmos/)**
+If you're working on learning tools, everyday software, or a project that needs both analysis and hands-on making, **[I'd like to hear about it](https://www.linkedin.com/in/ericmos/)**.

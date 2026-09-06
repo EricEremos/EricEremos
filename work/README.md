@@ -1,6 +1,6 @@
-# Notes from the workbench
+# Project notes
 
-Short project introductions, with scope and stage made explicit. Private project summaries describe my work without exposing private source code or user data.
+The problem, my role, and where each project stands.
 
 ## XiYouQuest
 
@@ -10,7 +10,7 @@ XiYouQuest combines a Journey to the West-inspired learning experience with AI-a
 
 The public repository documents the application, its architecture, and its learning flows. Practice feedback is formative; it should not be mistaken for an official proficiency certification.
 
-**Stage:** Public development repository. A public codebase is not a claim of production readiness or measured learning effectiveness.
+**Stage:** Public development repository.
 
 [Explore the code and documentation](https://github.com/EricEremos/XiYouQuest-RPG-study-web)
 
@@ -22,7 +22,7 @@ As Co-founder & Product Lead, I work across product strategy, classroom workflow
 
 The design challenge is to make the relationship between student activity and an instructor's next action clearer. My related learning work includes assessment development, analysis of student records, and AI-assisted learning materials.
 
-**Stage:** In development. This summary does not claim institution-wide deployment or validated learning gains. Student-level data and internal implementation stay private.
+**Stage:** In development. Student records and internal implementation remain private.
 
 ## Yeoback
 
@@ -32,7 +32,7 @@ I designed and developed Yeoback, a native macOS storage application centered on
 
 The product expresses a principle I care about: people should be able to understand the consequence of an action before taking it. The interface should support a considered decision at the moment it matters.
 
-**Stage:** Private development. Public release and independent product validation are not claimed here.
+**Stage:** Private development.
 
 ## Hong Kong Footprints
 
@@ -40,7 +40,7 @@ The product expresses a principle I care about: people should be able to underst
 
 Hong Kong Footprints is a private photo-journal prototype for connecting photographs and notes to places across Hong Kong. It explores district-level mapping and offline access to personal memories.
 
-**Stage:** Prototype. The emphasis is on the idea and design direction; availability as a released app is not claimed.
+**Stage:** Private prototype.
 
 ---
 
