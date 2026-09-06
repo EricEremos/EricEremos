@@ -1,4 +1,4 @@
-<img src="assets/cover.png" alt="Hyunjun (Eric) Kim. Language, software and the things in between. HKUST, Hong Kong." width="100%" />
+<img src="assets/cover.png" alt="Ericmos | Hyunjun Kim" width="100%" />
 
 I'm **Eric**, a Marketing and Information Systems student at HKUST and co-founder of **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
 
