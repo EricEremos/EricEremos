@@ -12,7 +12,7 @@ The public repository documents the application, its architecture, and its learn
 
 **Stage:** Public development repository.
 
-[Explore the code and documentation](https://github.com/EricEremos/XiYouQuest-RPG-study-web)
+[Explore the main project code and documentation](https://github.com/baduru11/XiYouQuest-RPG-study-web)
 
 ## MELI
 
@@ -23,6 +23,8 @@ As Co-founder & Product Lead, I work across product strategy, classroom workflow
 The design challenge is to make the relationship between student activity and an instructor's next action clearer. My related learning work includes assessment development, analysis of student records, and AI-assisted learning materials.
 
 **Stage:** In development. Student records and internal implementation remain private.
+
+[MELI on GitHub](https://github.com/Meliedu) · The organization is public; implementation access is restricted.
 
 ## Yeoback
 

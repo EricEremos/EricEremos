@@ -4,15 +4,15 @@ I'm **Eric**, a Marketing and Information Systems student at HKUST and co-founde
 
 I grew up in China, now study in Hong Kong, and work across Korean, English, and Mandarin. Away from a screen, you'll find me singing or playing acoustic guitar with my band.
 
-[LinkedIn](https://www.linkedin.com/in/ericmos/) &nbsp; / &nbsp; [Project notes](work/README.md) &nbsp; / &nbsp; [XiYouQuest source](https://github.com/EricEremos/XiYouQuest-RPG-study-web)
+[LinkedIn](https://www.linkedin.com/in/ericmos/) &nbsp; / &nbsp; [Project notes](work/README.md) &nbsp; / &nbsp; [XiYouQuest source](https://github.com/baduru11/XiYouQuest-RPG-study-web) &nbsp; / &nbsp; [MELI on GitHub](https://github.com/Meliedu)
 
 ## Learning a language
 
-**[XiYouQuest](https://github.com/EricEremos/XiYouQuest-RPG-study-web)** puts Putonghua practice inside a Journey to the West-inspired adventure, with AI-assisted feedback. My work spans the learning flow, interface, backend, and QA.
+**[XiYouQuest](https://github.com/baduru11/XiYouQuest-RPG-study-web)** puts Putonghua practice inside a Journey to the West-inspired adventure, with AI-assisted feedback. My work spans the learning flow, interface, backend, and QA. The link leads to the main collaborative project repository.
 
-**[MELI](work/README.md#meli)** takes that interest into classroom software. Since March 2026, I've been working with HKUST's Center for Language Education on learning workflows, assessment materials, data analysis, and university SSO integration.
+**[MELI](https://github.com/Meliedu)** takes that interest into classroom software. Since March 2026, I've been working with HKUST's Center for Language Education on learning workflows, assessment materials, data analysis, and university SSO integration. [Read the project notes](work/README.md#meli).
 
-XiYouQuest has a public development repository. MELI is in development.
+XiYouQuest has a public development repository. MELI is in development; its GitHub organization is public and its implementation repository is private.
 
 ## Making room
 
