@@ -1,4 +1,4 @@
-<img src="assets/cover.png" alt="Ericmos | Hyunjun Kim" width="100%" />
+<img src="assets/bluebird-banner.png" alt="Eric · Hyunjun Kim. Stay curious. Make things with care. Leave room to grow. A softly painted bluebird looks upward." width="100%" />
 
 I'm **Eric**, a Marketing and Information Systems student at HKUST and co-founder of **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
 
@@ -25,6 +25,8 @@ Designed and developed by me. Public source and design documentation; the app re
 **[KOWLO](https://github.com/EricEremos/kowlo)**, previously Hong Kong Footprints, is a personal photo atlas: places, photographs, and notes kept together on a map of Hong Kong. The public project brings together product design and working foundations; the complete experience is still in development.
 
 ## The part I care about
+
+**Stay curious. Make things with care. Leave room to grow.**
 
 I like staying with a problem beyond the first idea: testing a workflow, fixing an awkward interaction, and making a decision easier to understand. Research, design, implementation, and checking the result are all part of my work. I use AI throughout that process and take responsibility for what I ship.
 

@@ -1,3 +1,5 @@
+<img src="../assets/bluebird-banner.png" alt="Stay curious. Make things with care. Leave room to grow." width="100%" />
+
 # Project notes
 
 The problem, my role, and where each project stands.
