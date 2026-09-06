@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <title>Hyunjun Eric Kim. Build with care.</title>
+  <rect width="1584" height="396" fill="#F3F0E8"/>
+  <path d="M-48 356 C68 356 72 98 211 98 C364 98 302 310 438 310" fill="none" stroke="#CBD4C5" stroke-width="2"/>
+  <circle cx="211" cy="98" r="56" fill="#D9DECD"/>
+  <circle cx="211" cy="98" r="24" fill="#23483E"/>
+  <rect x="339" y="264" width="91" height="91" rx="45.5" fill="none" stroke="#23483E" stroke-width="2"/>
+  <path d="M367 310h36m-18-18v36" stroke="#23483E" stroke-width="2"/>
+  <path d="M473 56v284" stroke="#CCD0C5"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#23483E">
+    <text x="530" y="86" font-size="22">HYUNJUN (ERIC) KIM</text>
+    <text x="523" y="196" font-size="88" font-weight="bold">Build with care.</text>
+    <text x="530" y="251" font-size="29">Research deeply. Make thoughtfully.</text>
+    <text x="532" y="330" font-size="18">PRODUCT / SYSTEMS / STORIES</text>
+  </g>
+  <circle cx="1511" cy="72" r="7" fill="#C2D467"/>
+</svg>
