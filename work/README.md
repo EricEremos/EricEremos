@@ -20,7 +20,7 @@ The public repository documents the application, its architecture, and its learn
 
 **Question:** How can a classroom platform connect what happens before, during, and after a lesson?
 
-As Co-founder & Product Lead, I work across product strategy, classroom workflows, UI/UX, backend implementation, and quality assurance. Since March 2026, this work has included collaboration with HKUST's Center for Language Education and university SSO integration.
+I work across product strategy, classroom workflows, UI/UX, backend implementation, and quality assurance. Since March 2026, this work has included collaboration with HKUST's Center for Language Education and university SSO integration.
 
 The design challenge is to make the relationship between student activity and an instructor's next action clearer. My related learning work includes assessment development, analysis of student records, and AI-assisted learning materials.
 

@@ -1,6 +1,6 @@
 <img src="assets/bluebird-banner.png" alt="Eric · Hyunjun Kim. Stay curious. Make things with care. Leave room to grow. A softly painted bluebird looks upward." width="100%" />
 
-I'm **Eric**, a Marketing and Information Systems student at HKUST and co-founder of **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
+I'm **Eric**, a Marketing and Information Systems student at HKUST, working on **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
 
 I grew up in China, now study in Hong Kong, and work across Korean, English, and Mandarin. Away from a screen, you'll find me singing or playing acoustic guitar with my band.
 
