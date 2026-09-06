@@ -34,15 +34,19 @@ I designed and developed Yeoback, a native macOS storage application centered on
 
 The product expresses a principle I care about: people should be able to understand the consequence of an action before taking it. The interface should support a considered decision at the moment it matters.
 
-**Stage:** Private development.
+**Stage:** Development preview, with public source and design documentation.
 
-## Hong Kong Footprints
+[Explore Yeoback](https://github.com/EricEremos/Yeoback)
+
+## KOWLO
 
 **Question:** What would a map look like if it recorded the places that mattered to you?
 
-Hong Kong Footprints is a private photo-journal prototype for connecting photographs and notes to places across Hong Kong. It explores district-level mapping and offline access to personal memories.
+KOWLO, previously Hong Kong Footprints, is a personal photo atlas for connecting photographs and notes to places across Hong Kong. It explores district-level mapping, colours derived from photographs, and offline access to personal memories.
 
-**Stage:** Private prototype.
+**Stage:** Public design and implementation portfolio. The complete application and hosted sync remain in development; private journal records are not published.
+
+[Explore KOWLO](https://github.com/EricEremos/kowlo)
 
 ---
 

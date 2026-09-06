@@ -16,13 +16,13 @@ XiYouQuest has a public development repository. MELI is in development; its GitH
 
 ## Making room
 
-**[Yeoback](work/README.md#yeoback)** is my native macOS storage project. It starts with a simple concern: before removing a file, I want to understand what it is and whether I can recover it. The app brings together storage review, cleanup through Trash, and local growth insight.
+**[Yeoback](https://github.com/EricEremos/Yeoback)** is my native macOS storage project. It starts with a simple concern: before removing a file, I want to understand what it is and whether I can recover it. The app brings together storage review, cleanup through Trash, and local growth insight.
 
-Designed and developed by me. Currently in private development.
+Designed and developed by me. Public source and design documentation; the app remains a development preview.
 
 ## Remembering a place
 
-**[Hong Kong Footprints](work/README.md#hong-kong-footprints)** is a photo-journal prototype: places, photographs, and notes kept together on a personal map. An ongoing project about noticing the city I live in.
+**[KOWLO](https://github.com/EricEremos/kowlo)**, previously Hong Kong Footprints, is a personal photo atlas: places, photographs, and notes kept together on a map of Hong Kong. The public project brings together product design and working foundations; the complete experience is still in development.
 
 ## The part I care about
 
