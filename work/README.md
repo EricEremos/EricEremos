@@ -1,55 +1,57 @@
-<img src="../assets/bluebird-banner.png" alt="Stay curious. Make things with care. Leave room to grow." width="100%" />
+# A little more about the projects
 
-# Project notes
-
-The problem, my role, and where each project stands.
+What I'm making, where I fit in, and what you can actually look at.
 
 ## XiYouQuest
 
-**Question:** Can Putonghua practice become an experience students want to return to?
+XiYouQuest puts Putonghua practice inside a Journey to the West-inspired adventure. The question behind it is whether language practice can become something students want to come back to.
 
-XiYouQuest combines a Journey to the West-inspired learning experience with AI-assisted speaking practice. My work spans service planning, UI/UX, backend development, and QA/QC. It forms part of my language-learning work with HKUST's Center for Language Education.
+I work across planning, the interface, backend development, and testing as part of my language-learning work with HKUST's Center for Language Education.
 
-The public repository documents the application, its architecture, and its learning flows. Practice feedback is formative; it should not be mistaken for an official proficiency certification.
+One example is the [reference audio and recording playback work](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4). Learners can listen to the reference and replay their own attempt. The change also keeps recording disabled while the reference plays and releases recordings when the learner moves on. The implementation and regression tests are in that commit.
 
-**Stage:** Public development repository.
+The app is still in development. Its AI-assisted practice feedback is formative, not an official proficiency certification.
 
-[Explore the main project code and documentation](https://github.com/baduru11/XiYouQuest-RPG-study-web)
+[Main project repository](https://github.com/baduru11/XiYouQuest-RPG-study-web)
 
 ## MELI
 
-**Question:** How can a classroom platform connect what happens before, during, and after a lesson?
+MELI is classroom software I'm working on with HKUST's Center for Language Education. It connects work before, during, and after a lesson. I'm interested in how a student's activity can help an instructor decide what to do next.
 
-I work across product strategy, classroom workflows, UI/UX, backend implementation, and quality assurance. Since March 2026, this work has included collaboration with HKUST's Center for Language Education and university SSO integration.
+Since March 2026, my work has included product planning, classroom workflows, UI/UX, backend implementation, testing, and university SSO integration. Related work includes assessment materials, student-record analysis, and AI-assisted learning materials.
 
-The design challenge is to make the relationship between student activity and an instructor's next action clearer. My related learning work includes assessment development, analysis of student records, and AI-assisted learning materials.
+It's still in development. The public organization is a place to find the project; the implementation and student records remain private.
 
-**Stage:** In development. Student records and internal implementation remain private.
-
-[MELI on GitHub](https://github.com/Meliedu) · The organization is public; implementation access is restricted.
+[MELI on GitHub](https://github.com/Meliedu)
 
 ## Yeoback
 
-**Question:** How can a storage tool help someone decide what to remove with confidence?
+I designed and built Yeoback because a storage tool should give you enough information to decide what to remove. I want the pause before cleanup to be useful: show the files, show the consequences, and let the person choose.
 
-I designed and developed Yeoback, a native macOS storage application centered on deliberate review, recoverable cleanup through Trash, and local storage-growth insight.
+It's a native Mac app for reviewing storage, moving selected files to Trash, and following changes in folder size. Moving files to Trash doesn't itself free disk space, and the app shouldn't pretend it does.
 
-The product expresses a principle I care about: people should be able to understand the consequence of an action before taking it. The interface should support a considered decision at the moment it matters.
+<img src="https://raw.githubusercontent.com/EricEremos/Yeoback/5cbef18747818d0bceafd505da63df540e8c8fbf/docs/github/images/workbench.png" alt="Yeoback's native document review screen in light appearance." width="100%" />
 
-**Stage:** Development preview, with public source and design documentation.
+*The native app, using disposable test files.*
 
-[Explore Yeoback](https://github.com/EricEremos/Yeoback)
+It's a development preview. The [case study](https://github.com/EricEremos/Yeoback/blob/main/docs/github/CASE-STUDY.md) explains the choices behind it. The [quality report](https://github.com/EricEremos/Yeoback/blob/main/docs/github/QUALITY.md) records automated checks, native UI observations, and what hasn't been verified. The [safety notes](https://github.com/EricEremos/Yeoback/blob/main/docs/github/SAFETY.md) explain the cleanup boundaries.
+
+[Yeoback repository](https://github.com/EricEremos/Yeoback)
 
 ## KOWLO
 
-**Question:** What would a map look like if it recorded the places that mattered to you?
+KOWLO started as Hong Kong Footprints. I'm designing and building a personal photo atlas: photos and notes connected to places across Hong Kong, with room to revisit them later.
 
-KOWLO, previously Hong Kong Footprints, is a personal photo atlas for connecting photographs and notes to places across Hong Kong. It explores district-level mapping, colours derived from photographs, and offline access to personal memories.
+The public work explores district maps, colours taken from photographs, and offline access. The [portfolio notes](https://github.com/EricEremos/kowlo/blob/main/docs/PORTFOLIO.md) connect that direction to the implementation.
 
-**Stage:** Public design and implementation portfolio. The complete application and hosted sync remain in development; private journal records are not published.
+<img src="https://raw.githubusercontent.com/EricEremos/kowlo/f156b396bf56c606573f3bc9d2bce82a02ab9a8e/docs/design-assets/portfolio-cover.png" alt="Illustrative KOWLO atlas artwork, not a screenshot of the finished app." width="100%" />
 
-[Explore KOWLO](https://github.com/EricEremos/kowlo)
+*Illustrative atlas artwork, not a screenshot of the finished app.*
+
+You can inspect the documented [memory-print pipeline](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/memory-print-pipeline.md), [district chapters](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/district-chapters.md), and [offline shell](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/offline-shell.md). Those are working foundations; the complete app and hosted sync are still in progress. Private journal records aren't published.
+
+[KOWLO repository](https://github.com/EricEremos/kowlo)
 
 ---
 
-[Back to my profile](https://github.com/EricEremos) · [Connect on LinkedIn](https://www.linkedin.com/in/ericmos/)
+[Back to my profile](https://github.com/EricEremos) · [Say hello on LinkedIn](https://www.linkedin.com/in/ericmos/)

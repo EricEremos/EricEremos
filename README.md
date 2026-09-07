@@ -1,33 +1,31 @@
-<img src="assets/bluebird-banner.png" alt="Eric · Hyunjun Kim. Stay curious. Make things with care. Leave room to grow. A softly painted bluebird looks upward." width="100%" />
+<img src="assets/bluebird-banner.png" alt="eric, with a small bluebird looking up on warm paper." width="100%" />
 
-I'm **Eric**, a Marketing and Information Systems student at HKUST, working on **MELI**. I work on language-learning tools and make software for the everyday things I keep thinking about.
+Hi, I'm **Eric (Hyunjun Kim)**. I study Marketing and Information Systems at HKUST. These days I'm working on **MELI** and **XiYouQuest**, and making a few apps of my own.
 
-I grew up in China, now study in Hong Kong, and work across Korean, English, and Mandarin. Away from a screen, you'll find me singing or playing acoustic guitar with my band.
+I grew up in China and now live in Hong Kong. Korean, English, and Mandarin are all part of my day. So are singing and acoustic guitar with my band.
 
-[LinkedIn](https://www.linkedin.com/in/ericmos/) &nbsp; / &nbsp; [Project notes](work/README.md) &nbsp; / &nbsp; [XiYouQuest source](https://github.com/baduru11/XiYouQuest-RPG-study-web) &nbsp; / &nbsp; [MELI on GitHub](https://github.com/Meliedu)
+[LinkedIn](https://www.linkedin.com/in/ericmos/) · [A little more about the projects](work/README.md)
 
-## Learning a language
+## What I'm working on
 
-**[XiYouQuest](https://github.com/baduru11/XiYouQuest-RPG-study-web)** puts Putonghua practice inside a Journey to the West-inspired adventure, with AI-assisted feedback. My work spans the learning flow, interface, backend, and QA. The link leads to the main collaborative project repository.
+**[XiYouQuest](https://github.com/baduru11/XiYouQuest-RPG-study-web)** is a Journey to the West-inspired app for practising Putonghua. I work on the learning flow, interface, backend, and testing. One contribution you can look through is [letting learners listen to reference audio and replay their own recording](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4). This is the main team's repository; the project is still in development.
 
-**[MELI](https://github.com/Meliedu)** takes that interest into classroom software. Since March 2026, I've been working with HKUST's Center for Language Education on learning workflows, assessment materials, data analysis, and university SSO integration. [Read the project notes](work/README.md#meli).
+**[MELI](https://github.com/Meliedu)** is classroom software I'm working on with HKUST's Center for Language Education. Since March 2026, my work has included learning workflows, assessment materials, data analysis, and university SSO integration. It's still in development. The organization is public, but the implementation and student records stay private. [More on MELI](work/README.md#meli).
 
-XiYouQuest has a public development repository. MELI is in development; its GitHub organization is public and its implementation repository is private.
+## A couple of my own projects
 
-## Making room
+**[Yeoback](https://github.com/EricEremos/Yeoback)** is a Mac storage app I designed and built. Before deleting something, I want to know what it is and what will happen to it. That's the idea behind the app: look through your files, review a selection, then move it to Trash. It also tracks how storage changes over time.
 
-**[Yeoback](https://github.com/EricEremos/Yeoback)** is my native macOS storage project. It starts with a simple concern: before removing a file, I want to understand what it is and whether I can recover it. The app brings together storage review, cleanup through Trash, and local growth insight.
+<img src="https://raw.githubusercontent.com/EricEremos/Yeoback/5cbef18747818d0bceafd505da63df540e8c8fbf/docs/github/images/workbench.png" alt="Yeoback's native Mac app showing files ready for review." width="100%" />
 
-Designed and developed by me. Public source and design documentation; the app remains a development preview.
+*The native app, using disposable test files. Still a development preview.* [How it works](https://github.com/EricEremos/Yeoback/blob/main/docs/github/CASE-STUDY.md) · [What's been checked](https://github.com/EricEremos/Yeoback/blob/main/docs/github/QUALITY.md)
 
-## Remembering a place
+**[KOWLO](https://github.com/EricEremos/kowlo)**, previously Hong Kong Footprints, is a photo atlas I'm designing and building for Hong Kong. It puts photos and notes back in the places they belong on a map. The design and working foundations are public; the complete app and hosted sync are still in progress. [Take a look inside](https://github.com/EricEremos/kowlo/blob/main/docs/PORTFOLIO.md).
 
-**[KOWLO](https://github.com/EricEremos/kowlo)**, previously Hong Kong Footprints, is a personal photo atlas: places, photographs, and notes kept together on a map of Hong Kong. The public project brings together product design and working foundations; the complete experience is still in development.
+## Why I keep making things
 
-## The part I care about
+I like understanding a problem properly, then making something I can actually try. I tend to go back and change things: a sentence that doesn't sound right, a confusing screen, a feature that needs another pass. That's a lot of what you'll find here.
 
-**Stay curious. Make things with care. Leave room to grow.**
+I use AI in my work. I still need to understand the decisions, check the result, and own the mistakes.
 
-I like staying with a problem beyond the first idea: testing a workflow, fixing an awkward interaction, and making a decision easier to understand. Research, design, implementation, and checking the result are all part of my work. I use AI throughout that process and take responsibility for what I ship.
-
-If you're working on learning tools, everyday software, or a project that needs both analysis and hands-on making, **[I'd like to hear about it](https://www.linkedin.com/in/ericmos/)**.
+This is where I keep the things I'm working on. Some are further along than others. If one catches your interest, [say hello](https://www.linkedin.com/in/ericmos/).
