@@ -1,4 +1,4 @@
-<img src="assets/bluebird-banner.png" alt="eric, with a small bluebird looking up on warm paper." width="100%" />
+<img src="https://raw.githubusercontent.com/EricEremos/EricEremos/b7d8ac4d08ac900aa40e1bc299b338796af6b59e/assets/bluebird-banner.png" alt="eric, with a small bluebird looking up on warm paper." width="100%" />
 
 Hi, I'm **Eric (Hyunjun Kim)**. I study Marketing and Information Systems at HKUST. These days I'm working on **MELI** and **XiYouQuest**, and making a few apps of my own.
 
