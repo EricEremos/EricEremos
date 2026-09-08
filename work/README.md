@@ -2,6 +2,8 @@
 
 A closer look at what I made and where I contribute.
 
+[Selected work · two-page PDF](selected-work.pdf)
+
 ## KOWLO
 
 I’m designing and building a photo atlas for Hong Kong. Photos and notes belong to places on the map; district chapters give me a way to return to them.
