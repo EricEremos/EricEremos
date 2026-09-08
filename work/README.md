@@ -1,57 +1,49 @@
-# A little more about the projects
+# Project notes
 
-What I'm making, where I fit in, and what you can actually look at.
-
-## XiYouQuest
-
-XiYouQuest puts Putonghua practice inside a Journey to the West-inspired adventure. The question behind it is whether language practice can become something students want to come back to.
-
-I work across planning, the interface, backend development, and testing as part of my language-learning work with HKUST's Center for Language Education.
-
-One example is the [reference audio and recording playback work](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4). Learners can listen to the reference and replay their own attempt. The change also keeps recording disabled while the reference plays and releases recordings when the learner moves on. The implementation and regression tests are in that commit.
-
-The app is still in development. Its AI-assisted practice feedback is formative, not an official proficiency certification.
-
-[Main project repository](https://github.com/baduru11/XiYouQuest-RPG-study-web)
-
-## MELI
-
-MELI is classroom software I'm working on with HKUST's Center for Language Education. It connects work before, during, and after a lesson. I'm interested in how a student's activity can help an instructor decide what to do next.
-
-Since March 2026, my work has included product planning, classroom workflows, UI/UX, backend implementation, testing, and university SSO integration. Related work includes assessment materials, student-record analysis, and AI-assisted learning materials.
-
-It's still in development. The public organization is a place to find the project; the implementation and student records remain private.
-
-[MELI on GitHub](https://github.com/Meliedu)
-
-## Yeoback
-
-I designed and built Yeoback because a storage tool should give you enough information to decide what to remove. I want the pause before cleanup to be useful: show the files, show the consequences, and let the person choose.
-
-It's a native Mac app for reviewing storage, moving selected files to Trash, and following changes in folder size. Moving files to Trash doesn't itself free disk space, and the app shouldn't pretend it does.
-
-<img src="https://raw.githubusercontent.com/EricEremos/Yeoback/5cbef18747818d0bceafd505da63df540e8c8fbf/docs/github/images/workbench.png" alt="Yeoback's native document review screen in light appearance." width="100%" />
-
-*The native app, using disposable test files.*
-
-It's a development preview. The [case study](https://github.com/EricEremos/Yeoback/blob/main/docs/github/CASE-STUDY.md) explains the choices behind it. The [quality report](https://github.com/EricEremos/Yeoback/blob/main/docs/github/QUALITY.md) records automated checks, native UI observations, and what hasn't been verified. The [safety notes](https://github.com/EricEremos/Yeoback/blob/main/docs/github/SAFETY.md) explain the cleanup boundaries.
-
-[Yeoback repository](https://github.com/EricEremos/Yeoback)
+A closer look at what I made and where I contribute.
 
 ## KOWLO
 
-KOWLO started as Hong Kong Footprints. I'm designing and building a personal photo atlas: photos and notes connected to places across Hong Kong, with room to revisit them later.
+I’m designing and building a photo atlas for Hong Kong. Photos and notes belong to places on the map; district chapters give me a way to return to them.
 
-The public work explores district maps, colours taken from photographs, and offline access. The [portfolio notes](https://github.com/EricEremos/kowlo/blob/main/docs/PORTFOLIO.md) connect that direction to the implementation.
+<img src="../assets/kowlo-atlas.png" alt="The working KOWLO atlas, showing Hong Kong districts and illustrative saved places." width="100%" />
 
-<img src="https://raw.githubusercontent.com/EricEremos/kowlo/f156b396bf56c606573f3bc9d2bce82a02ab9a8e/docs/design-assets/portfolio-cover.png" alt="Illustrative KOWLO atlas artwork, not a screenshot of the finished app." width="100%" />
+*Actual working preview; illustrative data.*
 
-*Illustrative atlas artwork, not a screenshot of the finished app.*
+The [atlas preview](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/atlas-preview.md) documents the implementation. [District chapters](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/district-chapters.md) and [offline editing](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/atlas-offline.md) have their own evidence. Hosting and phone sync are still in progress. Private journal records aren't published.
 
-You can inspect the documented [memory-print pipeline](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/memory-print-pipeline.md), [district chapters](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/district-chapters.md), and [offline shell](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/offline-shell.md). Those are working foundations; the complete app and hosted sync are still in progress. Private journal records aren't published.
+[Repository](https://github.com/EricEremos/kowlo)
 
-[KOWLO repository](https://github.com/EricEremos/kowlo)
+## Yeoback
+
+I designed and built this native Mac app to make storage cleanup easier to inspect. You review file paths and consequences before moving a selection to Trash. Folder measurements show how storage changes over time.
+
+<img src="../assets/yeoback-workbench.png" alt="Yeoback's native document review screen, with disposable test files." width="100%" />
+
+*Development preview; disposable test files.*
+
+Moving files to Trash doesn't itself free disk space. The [case study](https://github.com/EricEremos/Yeoback/blob/main/docs/github/CASE-STUDY.md), [quality report](https://github.com/EricEremos/Yeoback/blob/main/docs/github/QUALITY.md), and [safety notes](https://github.com/EricEremos/Yeoback/blob/main/docs/github/SAFETY.md) explain the decisions, checks, and remaining limits.
+
+[Repository](https://github.com/EricEremos/Yeoback)
+
+## XiYouQuest
+
+A team project for Putonghua practice, inspired by Journey to the West. I contribute to planning, the interface, backend, and testing through my work with HKUST's Center for Language Education.
+
+In the [audio playback contribution](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4), learners can hear the reference and replay their own attempt. The implementation prevents recording during reference playback, releases old recordings, and includes regression tests.
+
+Still in development. Practice feedback is formative, not an official proficiency certification.
+
+[Team repository](https://github.com/baduru11/XiYouQuest-RPG-study-web)
+
+## MELI
+
+Classroom software with HKUST's Center for Language Education. Since March 2026, I've worked on learning workflows, UI/UX, backend implementation, testing, university SSO, assessment materials, and data analysis.
+
+Still in development. The organization is public; the implementation and student records remain private.
+
+[Project organization](https://github.com/Meliedu)
 
 ---
 
-[Back to my profile](https://github.com/EricEremos) · [Say hello on LinkedIn](https://www.linkedin.com/in/ericmos/)
+[Profile](https://github.com/EricEremos) · [LinkedIn](https://www.linkedin.com/in/ericmos/)
