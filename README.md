@@ -21,11 +21,11 @@ Classroom software that connects course progress, practice and assessment. My wo
 
 ### XiYouQuest — Mandarin practice with a journey to follow.
 
-A learning experience inspired by Journey to the West. Speaking, listening and progress belong to the same adventure. I contribute to the learning flow, interface, backend and tests.
+A Mandarin-learning experience inspired by Journey to the West. The learning hub brings practice, the story map and companions into one journey. I contribute to the learning flow, interface, backend and tests.
 
-<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/prompted-speaking.png" alt="XiYouQuest speaking exercise with a reference recording and learner recording controls; an August 2026 development capture." width="100%" /></a>
+<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/learning-hub-20261022.png" alt="XiYouQuest's current learning hub, with Main Quest, Practice Session, Mock Exam, AI Learning Path and AI Companion Chat; captured on 22 October 2026." width="100%" /></a>
 
-[Explore XiYouQuest](https://github.com/EricEremos/xiyouquest-showcase) · Team project · Historical screen; current source linked inside
+[Explore XiYouQuest](https://github.com/EricEremos/xiyouquest-showcase) · Team project · Current product screens, 22 October 2026
 
 ### Say-On — Every choice has a story.
 
