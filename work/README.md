@@ -36,9 +36,9 @@ A browser card game designed to get people talking. People join the same room, m
 
 ### KOWLO
 
-**Hong Kong, in your colours.**
+**Your photos. Your Hong Kong.**
 
-A personal atlas of photographs, places and the memories attached to them. The current showcase presents the approved Walk and collectible-card designs from 22 October 2026: a time budget for going out and returning, a starting-point picker and illustrated cards with a sense of place. The original interface pixels are preserved in the campaign artwork. These are development previews with sample places and timing; map tiles are disabled in the Walk fixture.
+A personal photo atlas for the city you know and the corners you are still discovering. The current showcase leads with the photo map, district summary and collection of place cards from the release-144 development audit on 23 October 2026. These are actual interface captures with sample places and photographs; the dates and totals are demonstration data. The earlier Walk preview remains available as a separate design example.
 
 [Product showcase](https://github.com/EricEremos/kowlo-showcase)
 
