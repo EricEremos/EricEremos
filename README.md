@@ -35,15 +35,15 @@ A shared card game for the conversation after a choice. Join a room, turn over a
 
 [Play Say-On](https://say-on.vercel.app/) · [See the product story](https://github.com/EricEremos/say-on-showcase) · Personal project
 
-### KOWLO — A Hong Kong worth remembering.
+### KOWLO — Your photos. Your Hong Kong.
 
-A personal photo atlas that connects places and memories with collectible cards and walks through the city. The current design lets you choose a starting place and plan for the whole walk there and back.
+A personal photo atlas for the city you know and the corners you are still discovering. Keep photographs with their places, see your Hong Kong take shape, and collect its stations, landmarks and islands.
 
 <p align="center">
-  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-walk-campaign-20261022.png" alt="KOWLO campaign: A walk that fits your time, and Start somewhere familiar. Two large phone screens show the return-trip budget and starting-place picker, with their original interface pixels preserved." width="100%" /></a>
+  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/photo-atlas-release144-20261023.png" alt="KOWLO's release-144 photo atlas: Your Hong Kong, with coloured place markers and Map, Line, Walk and Cards navigation. Original development capture with sample data." width="390" /></a>
 </p>
 
-[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Approved design previews, 22 October 2026 · Sample places and timing
+[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Release-144 development captures, 23 October 2026 · Sample photographs, places and totals
 
 ### Small tools for everyday friction
 
