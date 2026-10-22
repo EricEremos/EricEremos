@@ -15,7 +15,7 @@ I use AI throughout research, planning and building, then refine the interface a
 
 Classroom software that connects course progress, practice and assessment. My work with the team spans learning workflows, interface design, backend integration and testing.
 
-<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/main/assets/course-checkpoints.jpg" alt="MELI course checkpoint interface, captured on 21 October 2026." width="100%" /></a>
+<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/course-checkpoints.jpg" alt="MELI course checkpoint interface, captured on 21 October 2026." width="100%" /></a>
 
 [See MELI](https://github.com/EricEremos/meli-showcase) · Team project · In development
 
@@ -23,7 +23,7 @@ Classroom software that connects course progress, practice and assessment. My wo
 
 A learning experience inspired by Journey to the West. Speaking, listening and progress belong to the same adventure. I contribute to the learning flow, interface, backend and tests.
 
-<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/main/assets/prompted-speaking.png" alt="XiYouQuest speaking exercise with a reference recording and learner recording controls; an August 2026 development capture." width="100%" /></a>
+<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/prompted-speaking.png" alt="XiYouQuest speaking exercise with a reference recording and learner recording controls; an August 2026 development capture." width="100%" /></a>
 
 [Explore XiYouQuest](https://github.com/EricEremos/xiyouquest-showcase) · Team project · Historical screen; current source linked inside
 
