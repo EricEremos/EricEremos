@@ -47,11 +47,23 @@ A personal photo atlas for the city you know and the corners you are still disco
 
 ### Small tools for everyday friction
 
-| Project | The moment it is designed for | Explore |
-| --- | --- | --- |
-| **Yeoback** | Before clearing space on a Mac, understand what is there and review what you intend to remove. | [See the workbench](https://github.com/EricEremos/yeoback-showcase) |
-| **Qav** | When a connection fails, trace the route from the Mac to the internet and narrow down where to look. | [See a connection check](https://github.com/EricEremos/qav-showcase) |
-| **REED** | Record a thought, read its transcript and return to the original audio. | [See the voice notebook](https://github.com/EricEremos/reed-showcase) |
+#### Yeoback
+
+Before clearing space on a Mac, understand what is there and review what you intend to remove.
+
+[See the workbench](https://github.com/EricEremos/yeoback-showcase)
+
+#### Qav
+
+When a connection fails, trace the route from the Mac to the internet and narrow down where to look.
+
+[See a connection check](https://github.com/EricEremos/qav-showcase)
+
+#### REED
+
+Record a thought, read its transcript and return to the original audio.
+
+[See the voice notebook](https://github.com/EricEremos/reed-showcase)
 
 *Personal projects in development. Each showcase identifies the screen version, sample data and current availability. Public pages share the product; private implementation and personal records remain private.*
 
