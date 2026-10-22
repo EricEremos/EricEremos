@@ -1,10 +1,10 @@
 <img src="assets/bluebird-harbour.png" alt="Eric's bluebird by a Hong Kong harbour window, with a sketchbook on the sill." width="100%" />
 
-## Useful software starts with paying attention.
+## From a useful question to a working product.
 
-I'm **Eric (Hyunjun Kim)**, studying Marketing & Information Systems at HKUST. I work on language-learning tools with a team and develop personal apps around things I care about: remembering a place, starting a conversation, finding a voice note, or understanding what is happening on a Mac.
+I'm **Eric (Hyunjun Kim)**, studying Marketing & Information Systems at HKUST. I work across **research, product planning, design, engineering, release and marketing**. In my independent projects, I carry the work through that full cycle. I also build language-learning tools as part of a team.
 
-I use AI throughout research, planning and building, then refine the interface and check what actually works. These projects show that process in practice, with product screens, the decisions behind them and a clear account of my contribution.
+The products start with things I care about: remembering a place, starting a conversation, finding a voice note or understanding what is happening on a Mac. The showcases below connect those ideas to real screens, working interactions and the decisions behind them, with my contribution identified in each project.
 
 [LinkedIn](https://www.linkedin.com/in/ericmos/) · [My role in each project](work/README.md)
 
@@ -37,11 +37,14 @@ A shared card game for the conversation after a choice. Join a room, turn over a
 
 ### KOWLO — A Hong Kong worth remembering.
 
-A personal photo atlas for places, small notes and walks through the city. The latest release work brings the atlas and walking experience closer together.
+A personal photo atlas that connects places and memories with collectible cards and walks through the city. The current design lets you choose a starting place and plan for the whole walk there and back.
 
-<a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/app-atlas-night.jpg" alt="KOWLO's Hong Kong photo atlas in a September 2026 development capture with illustrative content." width="100%" /></a>
+<p align="center">
+  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/card-lantau-20261022.png" alt="KOWLO's current Lantau Island collectible card, captured 22 October 2026." width="30%" /></a>
+  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/walk-budget-20261022.png" alt="KOWLO's current return-walk preview with sample data; fixture map tiles are not loaded." width="30%" /></a>
+</p>
 
-[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Release-142 notes and dated screens inside
+[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Current development screens, 22 October 2026
 
 ### Small tools for everyday friction
 
@@ -55,8 +58,8 @@ A personal photo atlas for places, small notes and walks through the city. The l
 
 ### How I work
 
-Start with a real question. Research it, turn it into a brief, make the direction visible, build, and check the result against the original purpose. I keep the useful decisions and feed what I learn into the next pass.
+Start with a real question. Research the problem and the people involved, turn the findings into a brief, and make the direction visible before building. Then test the result against the original purpose, prepare the release and show clearly what the product can do. Feedback informs the next pass.
 
-In my current workflow, **ChatGPT supports research, planning and building; Claude helps refine design details and finish the work.** Tools change. The habit I want to keep is making the result clear, useful and worth someone's attention.
+In my current workflow, **ChatGPT supports research, planning and building; Claude helps refine design details and finish the work.** I set the direction and quality criteria, review the output, and keep the useful decisions. That is how I connect marketing judgment with the practical work of making and delivering software.
 
 Away from the screen, I sing in a band.
