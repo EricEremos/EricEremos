@@ -4,14 +4,14 @@ I'm **Eric (Hyunjun Kim)**, studying Marketing & Information Systems at HKUST. I
 
 [LinkedIn](https://www.linkedin.com/in/ericmos/) · [Project notes & contributions](work/README.md)
 
-### [KOWLO](https://github.com/EricEremos/kowlo)
+### [KOWLO](https://github.com/EricEremos/kowlo-showcase)
 Photos, little notes, and places I want to remember in Hong Kong.
 
-<a href="https://github.com/EricEremos/kowlo"><img src="assets/kowlo-atlas.png" alt="KOWLO's working photo atlas: Hong Kong districts, a map, and saved places." width="100%" /></a>
+<a href="https://github.com/EricEremos/kowlo-showcase"><img src="assets/kowlo-atlas.png" alt="KOWLO's working photo atlas: Hong Kong districts, a map, and saved places." width="100%" /></a>
 
 *Personal project · Working preview with illustrative data*
 
-[Explore the atlas](https://github.com/EricEremos/kowlo/blob/main/docs/evidence/atlas-preview.md)
+[Explore the atlas](https://github.com/EricEremos/kowlo-showcase)
 
 ### [Yeoback](https://github.com/EricEremos/Yeoback)
 A Mac storage app built around the moment before you delete something.
