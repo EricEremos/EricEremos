@@ -21,6 +21,8 @@ Classroom software that connects course progress, practice and assessment. My wo
 
 ### XiYouQuest — Mandarin practice with a journey to follow.
 
+**Winner · HKUST GenAI Hackathon 2026 (team project).**
+
 A Mandarin-learning experience inspired by Journey to the West. The learning hub brings practice, the story map and companions into one journey. I contribute to the learning flow, interface, backend and tests.
 
 <a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/learning-hub-20261022.png" alt="XiYouQuest's current learning hub, with Main Quest, Practice Session, Mock Exam, AI Learning Path and AI Companion Chat; captured on 22 October 2026." width="100%" /></a>
