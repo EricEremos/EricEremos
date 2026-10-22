@@ -40,11 +40,10 @@ A shared card game for the conversation after a choice. Join a room, turn over a
 A personal photo atlas that connects places and memories with collectible cards and walks through the city. The current design lets you choose a starting place and plan for the whole walk there and back.
 
 <p align="center">
-  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/card-lantau-20261022.png" alt="KOWLO's current Lantau Island collectible card, captured 22 October 2026." width="30%" /></a>
-  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/walk-budget-20261022.png" alt="KOWLO's current return-walk preview with sample data; fixture map tiles are not loaded." width="30%" /></a>
+  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-walk-campaign-20261022.png" alt="KOWLO campaign: A walk that fits your time, and Start somewhere familiar. Two large phone screens show the return-trip budget and starting-place picker, with their original interface pixels preserved." width="100%" /></a>
 </p>
 
-[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Current development screens, 22 October 2026
+[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Approved design previews, 22 October 2026 · Sample places and timing
 
 ### Small tools for everyday friction
 
