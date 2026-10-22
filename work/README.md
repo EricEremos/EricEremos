@@ -36,17 +36,17 @@ A browser card game designed to get people talking. People join the same room, m
 
 ### KOWLO
 
-**A Hong Kong worth remembering.**
+**Hong Kong, in your colours.**
 
-A personal photo atlas built around districts, places and the memories attached to them. Release-142 work on 22 October 2026 refines the station-inspired opening, photo pins and walking experience. The showcase pairs those release notes with honestly dated development screens; the older atlas images contain illustrative places and photos.
+A personal atlas of photographs, places and the memories attached to them. The current showcase presents the approved Walk and collectible-card designs from 22 October 2026: a time budget for going out and returning, a starting-point picker and illustrated cards with a sense of place. The original interface pixels are preserved in the campaign artwork. These are development previews with sample places and timing; map tiles are disabled in the Walk fixture.
 
 [Product showcase](https://github.com/EricEremos/kowlo-showcase)
 
 ### Yeoback
 
-**Make room with a clearer view of what is there.**
+**Make room for your next project.**
 
-A native Mac storage workbench focused on the decision before removal. File paths, sizes, selection and review belong together, so clearing space begins with understanding the files. The public light and dark screenshots use test fixtures.
+A native Mac app for understanding storage before deciding what to remove. The showcase now shows the installed version 0.4.19 (31), captured on 22 October 2026. Its notebook-style Home screen distinguishes known, unknown and not measured storage. The displayed figures come from one local scan; they are not a promised saving. The app remains in development.
 
 [Product showcase](https://github.com/EricEremos/yeoback-showcase)
 
