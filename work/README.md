@@ -18,6 +18,8 @@ Since March 2026, I have worked on language-learning software with HKUST's Cente
 
 **Mandarin practice with a journey to follow.**
 
+**Winner · HKUST GenAI Hackathon 2026 (team project).**
+
 XiYouQuest brings Putonghua practice into a Journey to the West learning experience. My contributions span planning, learning flows, interface, backend and regression tests.
 
 One concrete example is the speaking exercise: learners can replay the reference, record themselves and listen back. The change prevents recording during reference playback, releases the previous recording and adds regression tests around the flow.
