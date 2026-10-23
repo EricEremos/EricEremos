@@ -23,7 +23,7 @@ A conversation card game for the moment after a choice. Open a room, turn over a
 **My role:** Independent concept, product planning, interface design, development and product presentation.  
 **Try it:** Playable in your browser.
 
-<a href="https://say-on.vercel.app/"><img src="https://raw.githubusercontent.com/EricEremos/say-on-showcase/main/assets/turn-over.gif" alt="Say-On in motion: a card is chosen, moves to the middle of the table and turns over to reveal a conversation question." width="100%" /></a>
+<a href="https://say-on.vercel.app/"><img src="assets/selected-say-on-20261024.png" alt="Say-On: original live-game screens show choosing a card and opening a conversation question on a film print." width="100%" /></a>
 
 [Play Say-On](https://say-on.vercel.app/) · [Explore the project](https://github.com/EricEremos/say-on-showcase)
 
@@ -34,7 +34,7 @@ A shared teaching workspace that brings course materials, practice and progress 
 **My contribution:** Learning workflows, interface work, backend integration and testing, assessment materials, analysis and university sign-in integration.  
 **Access:** A university team project with institutional access; the public showcase explains the work.
 
-<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-figma-01-final-20261023.png" alt="MELI's course-planning campaign, built around a privacy-reviewed syllabus editor with modules, topics and teaching weeks." width="100%" /></a>
+<a href="https://github.com/EricEremos/meli-showcase"><img src="assets/selected-meli-20261024.png" alt="MELI's course-planning campaign, built around a privacy-reviewed syllabus editor with modules, topics and teaching weeks." width="100%" /></a>
 
 [Explore MELI](https://github.com/EricEremos/meli-showcase)
 
@@ -45,9 +45,7 @@ A personal atlas connecting your photographs with places across Hong Kong, along
 **My role:** Independent product direction, design, engineering and showcase development.  
 **Status:** In development; explore the current product through its showcase.
 
-<p align="center">
-  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-figma-01-final-20261023.png" alt="KOWLO's photo-atlas campaign, using the original release-144 map interface with sample photographs and places." width="390" /></a>
-</p>
+<a href="https://github.com/EricEremos/kowlo-showcase"><img src="assets/selected-kowlo-20261024.png" alt="KOWLO's photo-atlas campaign, using the original development release-144 map interface with sample photographs and places." width="100%" /></a>
 
 [Explore KOWLO](https://github.com/EricEremos/kowlo-showcase)
 
