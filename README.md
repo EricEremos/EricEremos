@@ -15,7 +15,7 @@ The products start with things I care about: remembering a place, starting a con
 
 Classroom software that connects course progress, practice and assessment. My work with the team spans learning workflows, interface design, backend integration and testing.
 
-<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/course-checkpoints.jpg" alt="MELI course checkpoint interface, captured on 21 October 2026." width="100%" /></a>
+<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-figma-01-final-20261023.png" alt="MELI course-planning campaign, composed in Figma around the privacy-reviewed product interface. Open the showcase for the original screen and my team contribution." width="100%" /></a>
 
 [See MELI](https://github.com/EricEremos/meli-showcase) · Team project · In development
 
@@ -25,7 +25,7 @@ Classroom software that connects course progress, practice and assessment. My wo
 
 A Mandarin-learning experience inspired by Journey to the West. The learning hub brings practice, the story map and companions into one journey. I contribute to the learning flow, interface, backend and tests.
 
-<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/learning-hub-20261022.png" alt="XiYouQuest's current learning hub, with Main Quest, Practice Session, Mock Exam, AI Learning Path and AI Companion Chat; captured on 22 October 2026." width="100%" /></a>
+<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/xiyouquest-figma-01-final-20261023.png" alt="XiYouQuest's Mandarin-learning journey, composed in Figma around the current quest-map interface captured on 22 October 2026. Open the showcase for the original screen and team credits." width="100%" /></a>
 
 [Explore XiYouQuest](https://github.com/EricEremos/xiyouquest-showcase) · Team project · Current product screens, 22 October 2026
 
@@ -42,7 +42,7 @@ A shared card game for the conversation after a choice. Join a room, turn over a
 A personal photo atlas for the city you know and the corners you are still discovering. Keep photographs with their places, see your Hong Kong take shape, and collect its stations, landmarks and islands.
 
 <p align="center">
-  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/photo-atlas-release144-20261023.png" alt="KOWLO's release-144 photo atlas: Your Hong Kong, with coloured place markers and Map, Line, Walk and Cards navigation. Original development capture with sample data." width="390" /></a>
+  <a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-figma-01-final-20261023.png" alt="KOWLO: Your photos. Your Hong Kong. A native Figma campaign around the original release-144 photo-atlas interface, captured on 23 October 2026 with sample data." width="390" /></a>
 </p>
 
 [Explore KOWLO](https://github.com/EricEremos/kowlo-showcase) · Personal project · Release-144 development captures, 23 October 2026 · Sample photographs, places and totals
