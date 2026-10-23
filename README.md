@@ -8,9 +8,9 @@ I'm **Eric (Hyunjun Kim)**, studying **Marketing & Information Systems at HKUST*
 
 On my independent projects, I work across the full product cycle:
 
-| Product direction | Product development | Product marketing |
-| --- | --- | --- |
-| Research, positioning, scope and project planning | Interface design, frontend, backend, integrations and testing | Release preparation, product copy, showcases and campaign direction |
+- **Product direction:** Research, positioning, scope and project planning.
+- **Product development:** Interface design, frontend, backend, integrations and testing.
+- **Product marketing:** Release preparation, product copy, showcases and campaign direction.
 
 I also contribute to language-learning software with **HKUST's Center for Language Education**. **[XiYouQuest](https://github.com/EricEremos/xiyouquest-showcase), a team project I contribute to, won the HKUST GenAI Hackathon 2026.**
 
