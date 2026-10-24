@@ -12,9 +12,9 @@ The public showcases below let you see the products without access to private so
 
 Since March 2026, I have worked on language-learning software with HKUST's Center for Language Education. My contributions include learning workflows, UI/UX, backend integration and testing, assessment materials, data analysis and university SSO integration. MELI is a team effort; the public page describes my contribution without presenting the whole product as individual work.
 
-<a href="https://github.com/EricEremos/meli-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-promo-20261024-poster.png" alt="MELI film still: See who’s keeping up. The demo-data course overview reports 84% completion this week." width="100%" /></a>
+<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-promo-20261024-poster.png" alt="MELI film still: See who’s keeping up. The demo-data course overview reports 84% completion this week." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/meli-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/meli-showcase) · [Team organisation](https://github.com/Meliedu)
+[Watch the film](https://github.com/EricEremos/meli-showcase) · [Product showcase](https://github.com/EricEremos/meli-showcase) · [Team organisation](https://github.com/Meliedu)
 
 ### XiYouQuest
 
@@ -26,9 +26,9 @@ XiYouQuest brings Putonghua practice into a Journey to the West learning experie
 
 One concrete example is the speaking exercise: learners can replay the reference, record themselves and listen back. The change prevents recording during reference playback, releases the previous recording and adds regression tests around the flow.
 
-<a href="https://github.com/EricEremos/xiyouquest-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/xiyouquest-promo-20261024-poster.png" alt="XiYouQuest film still: Sun Wukong faces one of the seven bosses from the game’s own art." width="100%" /></a>
+<a href="https://github.com/EricEremos/xiyouquest-showcase"><img src="https://raw.githubusercontent.com/EricEremos/xiyouquest-showcase/Eremos/assets/xiyouquest-promo-20261024-poster.png" alt="XiYouQuest film still: Sun Wukong faces one of the seven bosses from the game’s own art." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/xiyouquest-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/xiyouquest-showcase) · [Team source](https://github.com/baduru11/XiYouQuest-RPG-study-web) · [Speaking-flow contribution](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4)
+[Watch the film](https://github.com/EricEremos/xiyouquest-showcase) · [Product showcase](https://github.com/EricEremos/xiyouquest-showcase) · [Team source](https://github.com/baduru11/XiYouQuest-RPG-study-web) · [Speaking-flow contribution](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4)
 
 ## Personal projects
 
@@ -38,9 +38,9 @@ One concrete example is the speaking exercise: learners can replay the reference
 
 A browser card game designed to get people talking. People join the same room, make a choice and reveal it together, leaving space for the conversation that follows. The public page includes the game flow, animated demonstrations and the story behind the name 사연.
 
-<a href="https://github.com/EricEremos/say-on-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/say-on-showcase/main/assets/say-on-promo-20261024-poster.png" alt="Say-On film still: a conversation card on the table." width="100%" /></a>
+<a href="https://github.com/EricEremos/say-on-showcase"><img src="https://raw.githubusercontent.com/EricEremos/say-on-showcase/main/assets/say-on-promo-20261024-poster.png" alt="Say-On film still: a conversation card on the table." width="100%" /></a>
 
-[Play Say-On](https://say-on.vercel.app/) · [Watch the film](https://github.com/EricEremos/say-on-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/say-on-showcase)
+[Play Say-On](https://say-on.vercel.app/) · [Watch the film](https://github.com/EricEremos/say-on-showcase) · [Product showcase](https://github.com/EricEremos/say-on-showcase)
 
 ### KOWLO
 
@@ -48,9 +48,9 @@ A browser card game designed to get people talking. People join the same room, m
 
 A personal photo atlas for the city you know and the corners you are still discovering. The current showcase leads with the photo map, district summary and collection of place cards from the release-144 development audit on 23 October 2026. These are actual interface captures with sample places and photographs; the dates and totals are demonstration data. The earlier Walk preview remains available as a separate design example.
 
-<a href="https://github.com/EricEremos/kowlo-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-promo-20261024-poster.png" alt="KOWLO film still: the Hong Kong photo atlas." width="100%" /></a>
+<a href="https://github.com/EricEremos/kowlo-showcase"><img src="https://raw.githubusercontent.com/EricEremos/kowlo-showcase/main/assets/kowlo-promo-20261024-poster.png" alt="KOWLO film still: the Hong Kong photo atlas." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/kowlo-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/kowlo-showcase)
+[Watch the film](https://github.com/EricEremos/kowlo-showcase) · [Product showcase](https://github.com/EricEremos/kowlo-showcase)
 
 ### Yeoback
 
@@ -58,9 +58,9 @@ A personal photo atlas for the city you know and the corners you are still disco
 
 A native Mac app for understanding storage before deciding what to remove. The showcase now shows the installed version 0.4.19 (31), captured on 22 October 2026. Its notebook-style Home screen distinguishes known, unknown and not measured storage. The displayed figures come from one local scan; they are not a promised saving. The app remains in development.
 
-<a href="https://github.com/EricEremos/yeoback-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/yeoback-showcase/Eremos/assets/yeoback-promo-20261024-poster.png" alt="Yeoback film still: the notebook-style storage view." width="100%" /></a>
+<a href="https://github.com/EricEremos/yeoback-showcase"><img src="https://raw.githubusercontent.com/EricEremos/yeoback-showcase/Eremos/assets/yeoback-promo-20261024-poster.png" alt="Yeoback film still: the notebook-style storage view." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/yeoback-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/yeoback-showcase)
+[Watch the film](https://github.com/EricEremos/yeoback-showcase) · [Product showcase](https://github.com/EricEremos/yeoback-showcase)
 
 ### Qav
 
@@ -68,9 +68,9 @@ A native Mac app for understanding storage before deciding what to remove. The s
 
 A Mac connection diagnostic tool that follows the route through Wi-Fi, router, provider, VPN and the internet. Its working interface separates status, possible fixes and results, helping make a connection problem easier to investigate.
 
-<a href="https://github.com/EricEremos/qav-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/qav-showcase/Eremos/assets/qav-promo-20261024-poster.png" alt="Qav film still: Qav finds what slows the connection." width="100%" /></a>
+<a href="https://github.com/EricEremos/qav-showcase"><img src="https://raw.githubusercontent.com/EricEremos/qav-showcase/Eremos/assets/qav-promo-20261024-poster.png" alt="Qav film still: Qav finds what slows the connection." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/qav-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/qav-showcase)
+[Watch the film](https://github.com/EricEremos/qav-showcase) · [Product showcase](https://github.com/EricEremos/qav-showcase)
 
 ### REED
 
@@ -78,9 +78,9 @@ A Mac connection diagnostic tool that follows the route through Wi-Fi, router, p
 
 A voice notebook in development for Mac and iPhone. Recording and readable transcripts help make a spoken thought easier to return to. The public iPhone example uses sample content; device sync is planned rather than presented as a finished feature.
 
-<a href="https://github.com/EricEremos/reed-showcase#watch-the-product-film"><img src="https://raw.githubusercontent.com/EricEremos/reed-showcase/Eremos/assets/reed-promo-20261024-poster.png" alt="REED film still: a recording becoming readable words." width="100%" /></a>
+<a href="https://github.com/EricEremos/reed-showcase"><img src="https://raw.githubusercontent.com/EricEremos/reed-showcase/Eremos/assets/reed-promo-20261024-poster.png" alt="REED film still: a recording becoming readable words." width="100%" /></a>
 
-[Watch the film](https://github.com/EricEremos/reed-showcase#watch-the-product-film) · [Product showcase](https://github.com/EricEremos/reed-showcase)
+[Watch the film](https://github.com/EricEremos/reed-showcase) · [Product showcase](https://github.com/EricEremos/reed-showcase)
 
 ## What these projects have in common
 
