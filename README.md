@@ -25,7 +25,7 @@ A conversation card game for the moment after a choice. Open a room, turn over a
 
 <a href="https://say-on.vercel.app/"><img src="assets/selected-say-on-20261024.png" alt="Say-On: original live-game screens show choosing a card and opening a conversation question on a film print." width="100%" /></a>
 
-[Play Say-On](https://say-on.vercel.app/) · [Explore the project](https://github.com/EricEremos/say-on-showcase)
+[Play Say-On](https://say-on.vercel.app/) · [Watch the film](https://github.com/EricEremos/say-on-showcase#watch-the-product-film) · [Explore the project](https://github.com/EricEremos/say-on-showcase)
 
 ### MELI · Bring the course into view.
 
@@ -36,7 +36,7 @@ A shared teaching workspace that brings course materials, practice and progress 
 
 <a href="https://github.com/EricEremos/meli-showcase"><img src="assets/selected-meli-20261024.png" alt="MELI's course-planning campaign, built around a privacy-reviewed syllabus editor with modules, topics and teaching weeks." width="100%" /></a>
 
-[Explore MELI](https://github.com/EricEremos/meli-showcase)
+[Watch the film](https://github.com/EricEremos/meli-showcase#watch-the-product-film) · [Explore MELI](https://github.com/EricEremos/meli-showcase)
 
 ### KOWLO · Your photos. Your Hong Kong.
 
@@ -47,7 +47,7 @@ A personal atlas connecting your photographs with places across Hong Kong, along
 
 <a href="https://github.com/EricEremos/kowlo-showcase"><img src="assets/selected-kowlo-20261024.png" alt="KOWLO's photo-atlas campaign, using the original development release-144 map interface with sample photographs and places." width="100%" /></a>
 
-[Explore KOWLO](https://github.com/EricEremos/kowlo-showcase)
+[Watch the film](https://github.com/EricEremos/kowlo-showcase#watch-the-product-film) · [Explore KOWLO](https://github.com/EricEremos/kowlo-showcase)
 
 ### How I work
 
