@@ -12,7 +12,7 @@ The public showcases below let you see the products without access to private so
 
 Since March 2026, I have worked on language-learning software with HKUST's Center for Language Education. My contributions include learning workflows, UI/UX, backend integration and testing, assessment materials, data analysis and university SSO integration. MELI is a team effort; the public page describes my contribution without presenting the whole product as individual work.
 
-<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-promo-20261024-poster.png" alt="MELI film title card: the MELI name in a honeycomb with Plan the course. Shape the next activity." width="100%" /></a>
+<a href="https://github.com/EricEremos/meli-showcase"><img src="https://raw.githubusercontent.com/EricEremos/meli-showcase/Eremos/assets/meli-promo-20261024-poster.png" alt="MELI film title card: the MELI name in a honey hexagon with A clearer next step for every language class." width="100%" /></a>
 
 [Watch the film](https://github.com/EricEremos/meli-showcase) · [Product showcase](https://github.com/EricEremos/meli-showcase) · [Team organisation](https://github.com/Meliedu)
 
@@ -68,7 +68,7 @@ A native Mac app for understanding storage before deciding what to remove. The s
 
 A Mac connection diagnostic tool that follows the route through Wi-Fi, router, provider, VPN and the internet. Its working interface separates status, possible fixes and results, helping make a connection problem easier to investigate.
 
-<a href="https://github.com/EricEremos/qav-showcase"><img src="https://raw.githubusercontent.com/EricEremos/qav-showcase/Eremos/assets/qav-promo-20261024-poster.png" alt="Qav film title card: the cord ties Qav’s mark and lights the bulb, with See where your connection falters." width="100%" /></a>
+<a href="https://github.com/EricEremos/qav-showcase"><img src="https://raw.githubusercontent.com/EricEremos/qav-showcase/Eremos/assets/qav-promo-20261024-poster.png" alt="Qav film title card: the cord ties Qav’s mark and lights the bulb, with Stop guessing. Qav sees where your connection falters." width="100%" /></a>
 
 [Watch the film](https://github.com/EricEremos/qav-showcase) · [Product showcase](https://github.com/EricEremos/qav-showcase)
 
